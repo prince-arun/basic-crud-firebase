@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b47ca48e.css",
+    "main.js": "/static/js/main.a9034d87.js",
+    "static/js/787.a94a4c69.chunk.js": "/static/js/787.a94a4c69.chunk.js",
+    "static/media/shoes.jpg": "/static/media/shoes.0384196ae38f6e33b633.jpg",
+    "static/media/headphones.jpg": "/static/media/headphones.8b42e92f4222da208e7b.jpg",
+    "static/media/watchs.jpg": "/static/media/watchs.af960cff6430acf0866c.jpg",
+    "index.html": "/index.html",
+    "main.b47ca48e.css.map": "/static/css/main.b47ca48e.css.map",
+    "main.a9034d87.js.map": "/static/js/main.a9034d87.js.map",
+    "787.a94a4c69.chunk.js.map": "/static/js/787.a94a4c69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47ca48e.css",
+    "static/js/main.a9034d87.js"
+  ]
+}
