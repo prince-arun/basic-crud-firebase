@@ -1,0 +1,19 @@
+.cardBody {
+  background-color: rgb(241, 235, 235);
+  box-shadow: 10px 10px 8px gray;
+}
+.d-block {
+  width: 80vh;
+  height: 90vh;
+}
+.home h3,
+p {
+  color: black;
+}
+.home > p {
+  font-weight: bold;
+}
+.bName {
+  font-size: 45px;
+  font-weight: bold;
+}
