@@ -142,7 +142,7 @@ const NewEdit = (props) => {
       try {
         const user = auth.currentUser;
         await user.delete();
-        window.location.reload();
+        // window.location.reload();
         await update(ref(db, "RegUser/" + id), {
           Firstname: null,
           Lastname: null,

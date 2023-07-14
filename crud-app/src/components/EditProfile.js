@@ -1,3 +1,7 @@
+// ------------------------------------this is just a sample component-----------------------------
+
+// ------------------This component Does not a part of build----------------------------------
+
 import React, { useEffect } from "react";
 import { useState } from "react";
 import Button from "react-bootstrap/Button";
